@@ -105,10 +105,10 @@ form-control:focus {
 
 
 .btn {
-    font-size: 17px;
-    padding: 7px 20px;
-    -ms-border-radius: 13px;
-    border-radius: 13px;
+    /*font-size: 17px;
+    padding: 7px 20px;*/
+    -ms-border-radius: 9px;
+    border-radius: 9px;
 }
 
 /* page-level styles */
