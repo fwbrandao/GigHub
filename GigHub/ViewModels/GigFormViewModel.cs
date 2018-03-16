@@ -48,6 +48,8 @@ namespace GigHub.ViewModels
 
         }
 
+        public string SearchTerm { get; set; }
+
 
         public DateTime GetDateTime()
         {
